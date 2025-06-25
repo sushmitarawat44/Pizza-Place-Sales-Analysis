@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
 Created on Wed Apr 23 01:04:44 2025
-
 @author: sushmita
+
 """
 PIZZA SALES ANALYSIS PROJECT
 Author: SUSHMITA RAWAT
